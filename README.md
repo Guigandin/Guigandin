@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @Guigandin
-<!-- - 👀 I’m interested in statistics, machine learning and data science!
-- 🌱 I’m currently learning about how to use GitHub.
-- 💞️ I’m looking to collaborate on interesting classification models.
-- 📫 How to reach me: guigandin@hotmail.com -->
+## Hello, I'm Guilherme Gandin!
+<div align="center">
+   <a href="https://github.com/Guigandin">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guigandin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guigandin&layout=compact&langs_count=7&theme=dark"/>
+</div>
+     
 
 <!-- Estatísticas gerais do perfil -->
-[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guigandin&show_icons=true&count_private=true&theme=dark)](https://github.com/Guigandin/github-readme-stats)
+<!-- [![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guigandin&show_icons=true&count_private=true&theme=dark)](https://github.com/Guigandin/github-readme-stats) -->
 
 <!-- Jogo da cobrinha passando pelas contribuições -->
 ![Snake animation](https://github.com/Guigandin/Guigandin/blob/output/github-contribution-grid-snake.svg)
