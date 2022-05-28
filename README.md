@@ -5,7 +5,7 @@
 - 📫 How to reach me: guigandin@hotmail.com -->
 
 <!-- Estatísticas gerais do perfil -->
-[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guigandin&show_icons=true)](https://github.com/Guigandin/github-readme-stats)
+[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guigandin&show_icons=true&count_private=true&theme=dark)](https://github.com/Guigandin/github-readme-stats)
 
 <!-- Jogo da cobrinha passando pelas contribuições -->
 ![Snake animation](https://github.com/Guigandin/Guigandin/blob/output/github-contribution-grid-snake.svg)
