@@ -24,7 +24,7 @@
    
 <!--    Contatos -->
  <div>  
-   <a href="https://br.linkedin.com/in/guilherme-gandin-374907178" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://br.linkedin.com/in/guilherme-gandin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
    <!-- Jogo da cobrinha passando pelas contribuições -->
    ![Snake animation](https://github.com/Guigandin/Guigandin/blob/output/github-contribution-grid-snake.svg)
